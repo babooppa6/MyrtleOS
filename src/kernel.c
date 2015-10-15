@@ -18,5 +18,6 @@ kmain() {
 				print("Sorry - I don't know what that means :-(");
 				break;
 		}
+		print("\n");
 	}
 }
