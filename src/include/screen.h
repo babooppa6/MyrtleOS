@@ -6,4 +6,5 @@ void clearLine(uint8 from, uint8 to);
 void clearScreen();
 void print(string str);
 void print(string str, char colour);
+void printch(char ch);
 #endif
